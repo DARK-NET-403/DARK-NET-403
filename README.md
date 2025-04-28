@@ -55,11 +55,13 @@ func main() {
 
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
 
+<p align="center"><a href="https://www.facebook.com/share/1Z3gzaAMZM/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://www.instagram.com/dark_net_403?igsh=OTRucXE1MWhodDZv"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://github.com/DARK-NET-403/" target="_blank">
+</a>
+
 <p align="center">
 <a href="https://t.me/DARK_NET_403"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=darkkingnet12@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="tiktok.com/@dark_net_403"><img alt="Tiktok" title="Tiktok" src="https://img.shields.io/badge/-Tiktik-FF0000?style=for-the-badge&logo=tiktok&logoColor=white"/></a></br>
 
-<p align="center"><a href="https://www.facebook.com/share/1Z3gzaAMZM/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://www.instagram.com/dark_net_403?igsh=OTRucXE1MWhodDZv"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://github.com/DARK-NET-403/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
-</a>
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
