@@ -1,27 +1,27 @@
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
-<p align="center"><img src="https://g.top4top.io/p_340556i1q0.png"></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
-<table border="0">
- <tr>
-    <td>
-      <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ariyan+Rabbi;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=DARK-NET-403&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="DARK-NET-403"/>
-      <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=DARK-NET-403&data=followers,repositories,stars,commits&theme=viridescent"/>
-    <td>
-      <img alt="gif" src="https://github.com/DARK-NET-403/DARK-NET-403/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif">
-   </td>  
- </tr>  
-</table>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+</p><h1 align="center">⚡ 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 <span style="color:lime">𝘼𝙧𝙞𝙮𝙖𝙣 𝙍𝙖𝙗𝙗𝙞</span> ⚡</h1><p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Python+Developer+%F0%9F%94%A5;Ethical+Hacker+%F0%9F%92%BB;Cyber+Security+Enthusiast+%F0%9F%92%80;Data+Scientist+%F0%9F%93%8A;Loves+to+Code+%F0%9F%92%BB" alt="Typing SVG" />
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+</p><p align="center">
+    <img src="https://komarev.com/ghpvc/?username=DARK-NET-403&label=Profile+Views&color=2ED3B7&style=for-the-badge" alt="views"/>
+</p><p align="center">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=DARK-NET-403&data=followers,repositories,stars,commits&theme=darkmode"/>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+</p><p align="center">
+    <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400">
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+---
 
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
-</b></h3>
+<img src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="28"> 𝙈𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙄𝙣 𝙂𝙤 𝙇𝙖𝙣𝙜
 
 ```go
 package main
@@ -48,204 +48,59 @@ func main() {
   fmt.Println(me)
 }
 ```
-<!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
-<!--- <p align='center'><a href="https://api.daily.dev/get?r=Ariyan Rabbi"> -->
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
-
-<p align="center"><a href="https://www.facebook.com/share/1Z3gzaAMZM/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://www.instagram.com/dark_net_403?igsh=OTRucXE1MWhodDZv"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://github.com/DARK-NET-403/" target="_blank">
-</a>
+---
+<p align="center">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="28"> 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
 
 <p align="center">
-<a href="https://t.me/DARK_NET_403"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=darkkingnet12@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="tiktok.com/@dark_net_403"><img alt="Tiktok" title="Tiktok" src="https://img.shields.io/badge/-Tiktik-FF0000?style=for-the-badge&logo=tiktok&logoColor=white"/></a></br>
-
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
-
-<p align="center">
-    <a href="https://github.com/DARK-NET-403">
-          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
-    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+  <a href="https://facebook.com/share/1Z3gzaAMZM/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/dark_net_403" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://t.me/DARK_NET_403" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=green"/>
+  </a>
+  <a href="mailto:darkkingnet12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<br>
-<p align="center"><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️
-
-> Tools and technologies that I have worked with and I'm interested in
-
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
-    </td>
-  </tr>
- <tr>
- </tr>
-</table>
- 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-### 🏆GitHub Trophies
+---
+<p align="center">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="28"> 𝘾𝙤𝙙𝙞𝙣𝙜 𝙎𝙠𝙞𝙡𝙡𝙨
 
 <p align="center">
-    <a href="https://github.com/DARK-NET-403">
-          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=DARK-NET-403&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-    <img width="40%" src="https://holopin.me/amajaying3" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,react,django,linux,git,github,postman,tailwind" />
 </p>
-<p align="center"><img src="https://stardev.io/developers/DARK-NET-403/badge/languages/global.svg" width="100%"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
-
+---
+<p align="center">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+<img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="28"> 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
 
 <p align="center">
-<a href="https://github.com/DARK-NET-403"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK-NET-403&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=DARK-NET-403&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DARK-NET-403&show_icons=true&theme=tokyonight" width="47%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DARK-NET-403&theme=tokyonight&hide_border=false" width="47%">
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK-NET-403&layout=compact&theme=tokyonight" width="50%">
 </p>
-
-- Note : **Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.**
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-### 📊 GitHub States
+---
 <p align="center">
-<a href="https://github.com/DARK-NET-403"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=DARK-NET-403&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DARK-NET-403&theme=dark&hide_border=false" />
- </a></p>
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+<img src="https://cdn-icons-png.flaticon.com/512/2910/2910768.png" width="28"> 𝙂𝙞𝙩𝙃𝙪𝙗 𝙏𝙧𝙤𝙥𝙝𝙞𝙚𝙨
+
 <p align="center">
-<a href="https://github.com/DARK-NET-403">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DARK-NET-403&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=DARK-NET-403&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=DARK-NET-403&theme=onestar&no-bg=true&margin-w=4">
 </p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-<!-- Contribution Snake -->
-<p align="center"><img src="https://github.com/DARK-NET-403/DARK-NET-403/blob/main/github-contribution-grid-snake.svg"></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-<!-- Footer -->
-
-<img src="https://github.com/DARK-NET-403/DARK-NET-403/blob/main/Footer.jpg">
+---
+<p align="center">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+<p align="center">
+  <img src="https://github.com/DARK-NET-403/DARK-NET-403/blob/main/github-contribution-grid-snake.svg">
+</p><p align="center">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+</p><p align="center">
+  <img src="https://github.com/DARK-NET-403/DARK-NET-403/blob/main/Footer.jpg">
+</p>
