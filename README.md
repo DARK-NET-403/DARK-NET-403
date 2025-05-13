@@ -80,11 +80,11 @@ func main() {
 ### <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="28"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DARK-NET-403&show_icons=true&theme=tokyonight" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DARK-NET-403&theme=tokyonight&hide_border=false" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=DARK-NET-403&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DARK-NET-403&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK-NET-403&layout=compact&theme=tokyonight" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK-NET-403&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/2910/2910768.png" width="28"> GitHub Trophies
