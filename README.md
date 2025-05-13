@@ -2,10 +2,11 @@
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </p>
 <h1 align="center">⚡ 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 <span style="color:lime">𝘼𝙧𝙞𝙮𝙖𝙣 𝙍𝙖𝙗𝙗𝙞</span> ⚡</h1>
-<p align="center">
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </p>
+<p align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Python+Developer+%F0%9F%94%A5;Ethical+Hacker+%F0%9F%92%BB;Cyber+Security+%F0%9F%92%80;Data+Scientist+%F0%9F%93%8A;Loves+to+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 <p align="center">
