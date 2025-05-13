@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </p><h1 align="center">⚡ 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 <span style="color:lime">𝘼𝙧𝙞𝙮𝙖𝙣 𝙍𝙖𝙗𝙗𝙞</span> ⚡</h1><p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Python+Developer+%F0%9F%94%A5;Ethical+Hacker+%F0%9F%92%BB;Cyber+Security+Enthusiast+%F0%9F%92%80;Data+Scientist+%F0%9F%93%8A;Loves+to+Code+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Python+Developer+%F0%9F%94%A5;Ethical+Hacker+%F0%9F%92%BB;Cyber+Security+%F0%9F%92%80;Data+Scientist+%F0%9F%93%8A;Loves+to+Code+%F0%9F%92%BB" alt="Typing SVG" />
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
@@ -19,7 +19,7 @@
 </p>
 <p align="center">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
----
+
 
 <img src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="28"> 𝙈𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙄𝙣 𝙂𝙤 𝙇𝙖𝙣𝙜
 
@@ -48,7 +48,7 @@ func main() {
   fmt.Println(me)
 }
 ```
----
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="28"> 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
@@ -67,7 +67,7 @@ func main() {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
----
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="28"> 𝘾𝙤𝙙𝙞𝙣𝙜 𝙎𝙠𝙞𝙡𝙡𝙨
@@ -75,7 +75,7 @@ func main() {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,react,django,linux,git,github,postman,tailwind" />
 </p>
----
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="28"> 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
@@ -86,7 +86,7 @@ func main() {
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK-NET-403&layout=compact&theme=tokyonight" width="50%">
 </p>
----
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <img src="https://cdn-icons-png.flaticon.com/512/2910/2910768.png" width="28"> 𝙂𝙞𝙩𝙃𝙪𝙗 𝙏𝙧𝙤𝙥𝙝𝙞𝙚𝙨
@@ -94,7 +94,7 @@ func main() {
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DARK-NET-403&theme=onestar&no-bg=true&margin-w=4">
 </p>
----
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <p align="center">
