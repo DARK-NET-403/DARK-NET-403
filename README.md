@@ -1,9 +1,11 @@
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </p>
 <h1 align="center">⚡ 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 <span style="color:lime">𝘼𝙧𝙞𝙮𝙖𝙣 𝙍𝙖𝙗𝙗𝙞</span> ⚡</h1>
 <p align="center">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+</p>
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Python+Developer+%F0%9F%94%A5;Ethical+Hacker+%F0%9F%92%BB;Cyber+Security+%F0%9F%92%80;Data+Scientist+%F0%9F%93%8A;Loves+to+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 <p align="center">
@@ -74,15 +76,22 @@ func main() {
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,react,django,linux,git,github,postman,tailwind" />
 </p>
 
+
+
+
 ### <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="28"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DARK-NET-403&show_icons=true&theme=tokyonight" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DARK-NET-403&theme=tokyonight&hide_border=false" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=DARK-NET-403&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=DARK-NET-403&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK-NET-403&layout=compact&theme=tokyonight" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK-NET-403&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" width="50%" />
 </p>
+
+
+
+
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/2910/2910768.png" width="28"> GitHub Trophies
 
